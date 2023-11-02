@@ -1,0 +1,12 @@
+torch
+numpy
+scipy
+tqdm
+h5py
+easydict
+open3d==0.11.2
+scikit-learn
+ipdb
+lightly==1.1.21
+tensorboard
+tensorboardX
