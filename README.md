@@ -1,6 +1,6 @@
 # Cross-Modal Information-Guided Network using Contrastive Learning for Point Cloud Registration (RAL 2023)
-PyTorch implementation of the paper: Cross-Modal Information-Guided Network using Contrastive Learning for Point Cloud Registration.
-<!-- [Cross-Modal Information-Guided Network using Contrastive Learning for Point Cloud Registration](https://arxiv.org/abs/). -->
+PyTorch implementation of the paper:
+[Cross-Modal Information-Guided Network using Contrastive Learning for Point Cloud Registration]([https://arxiv.org/abs/](https://arxiv.org/abs/2311.01202)).
 
 ![CMIGNet architecture](assets/CMIGNet.png)
 
