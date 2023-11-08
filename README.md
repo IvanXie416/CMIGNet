@@ -32,17 +32,18 @@ To test a model:
 python test.py --model_path <path_to_model>
 ```
 
-## Usage
+<!--## Usage
 Our code is released under MIT License (see LICENSE file for details).
+-->
 
 
-<!-- ## Citation
+## Citation
 If you find our work useful in your research, please consider citing:
 ```latex
-@article{xie2023cmignet,
+@article{xie2023cross,
   title={Cross-Modal Information-Guided Network using Contrastive Learning for Point Cloud Registration},
-  author={Yifan Xie, Jihua Zhu, Shiqi Li, Pengcheng Shi},
-  journal={IEEE Robotics and Automation Letters},
+  author={Xie, Yifan and Zhu, Jihua and Li, Shiqi and Shi, Pengcheng},
+  journal={arXiv preprint arXiv:2311.01202},
   year={2023}
 }
-``` -->
+```
