@@ -41,9 +41,13 @@ Our code is released under MIT License (see LICENSE file for details).
 If you find our work useful in your research, please consider citing:
 ```latex
 @article{xie2023cross,
-  title={Cross-Modal Information-Guided Network using Contrastive Learning for Point Cloud Registration},
   author={Xie, Yifan and Zhu, Jihua and Li, Shiqi and Shi, Pengcheng},
-  journal={arXiv preprint arXiv:2311.01202},
-  year={2023}
+  journal={IEEE Robotics and Automation Letters}, 
+  title={Cross-Modal Information-Guided Network Using Contrastive Learning for Point Cloud Registration}, 
+  year={2023},
+  volume={},
+  number={},
+  pages={1-8},
+  doi={10.1109/LRA.2023.3331625}
 }
 ```
