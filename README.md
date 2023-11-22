@@ -44,10 +44,10 @@ If you find our work useful in your research, please consider citing:
   author={Xie, Yifan and Zhu, Jihua and Li, Shiqi and Shi, Pengcheng},
   journal={IEEE Robotics and Automation Letters}, 
   title={Cross-Modal Information-Guided Network Using Contrastive Learning for Point Cloud Registration}, 
-  year={2023},
-  volume={},
-  number={},
-  pages={1-8},
+  year={2024},
+  volume={9},
+  number={1},
+  pages={103-110},
   doi={10.1109/LRA.2023.3331625}
 }
 ```
